@@ -13,8 +13,8 @@ const fontSans = FontSans({
 })
 
 export const metadata: Metadata = {
-  title: 'LiveDocs',
-  description: 'Your go-to collaborative editor',
+  title: 'StrawQuill',
+  description: 'Write like a Pirate King. StrawQuill is a writing app that helps you write like Eiichiro Oda, the creator of One Piece.',
 }
 
 export default function RootLayout({ children }: { children: React.ReactNode }) {
